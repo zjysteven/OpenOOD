@@ -1,0 +1,14 @@
+{
+  "Training": "CrossEntropy",
+  "Postprocessor": "<a href=https://arxiv.org/abs/2505.18032>RMDS++</a>",
+  "Near-OOD_AUROC": "85.16",
+  "Far-OOD_AUROC": "94.20",
+  "ID_Accuracy": "86.11",
+  "Outlier_Data": "No",
+  "Arch": "RegNet_Y_16GF",
+  "Additional_Description": "torchvision ckpt",
+  "ID_Accuracy_Mean": "86.11",
+  "Near-OOD_AUROC_Mean": "85.16",
+  "Far-OOD_AUROC_Mean": "94.20",
+  "Rank": 7
+}
