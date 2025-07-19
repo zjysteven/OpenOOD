@@ -1,14 +1,14 @@
 {
-  "Training": "OAL",
+  "Training": "<a href=https://dl.acm.org/doi/10.1145/3731715.3733326>OAL</a>",
   "Postprocessor": "<a href=https://papers.nips.cc/paper/2020/hash/f5496252609c43eb8a3d147ab9b9c006-Abstract.html>EBO</a>",
-  "Near-OOD_AUROC": "81.73 \u00b1 0.58",
-  "Far-OOD_AUROC": "85.40 \u00b1 0.67",
-  "ID_Accuracy": "77.09 \u00b1 0.43",
+  "Near-OOD_AUROC": "82.03 \u00b1 1.19",
+  "Far-OOD_AUROC": "84.03 \u00b1 1.70",
+  "ID_Accuracy": "76.89 \u00b1 0.20",
   "Outlier_Data": "No",
   "Arch": "ResNet18",
   "Additional_Description": "100 epochs; 224x224",
-  "ID_Accuracy_Mean": "77.09",
-  "Near-OOD_AUROC_Mean": "81.73",
-  "Far-OOD_AUROC_Mean": "85.40",
+  "ID_Accuracy_Mean": "76.89",
+  "Near-OOD_AUROC_Mean": "82.03",
+  "Far-OOD_AUROC_Mean": "84.03",
   "Rank": 2
 }
