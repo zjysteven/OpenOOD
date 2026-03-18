@@ -96,3 +96,4 @@ CrossEntropy,MDS++,80.54,94.6,81.6,No,Swin-T,torchvision ckpt
 CrossEntropy,RMDS++,81.5,93.27,81.6,No,Swin-T,torchvision ckpt
 CrossEntropy,MDS,79.83,94.06,86.11,No,RegNet_Y_16GF,torchvision ckpt
 CrossEntropy,RMDS,84.92,94.44,86.11,No,RegNet_Y_16GF,torchvision ckpt
+CrossEntropy,VRA,77.91,94.35,76.19,No,ResNet50,torchvision ckpt
