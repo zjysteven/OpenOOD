@@ -59,3 +59,4 @@ CrossEntropy,fDBD,53.38 ± 0.16,71.26 ± 0.37,43.92 ± 0.12,No,ResNet18,90 epoch
 CrossEntropy,i-ODIN,51.37 ± 0.30,65.31 ± 0.59,43.91 ± 0.11,No,ResNet18,90 epochs
 CrossEntropy,AdaSCALE-A,57.07 ± 1.27,75.60 ± 1.60,43.92 ± 0.12,No,ResNet18,90 epochs
 CrossEntropy,AdaSCALE-L,56.65 ± 0.63,76.16 ± 0.75,43.92 ± 0.12,No,ResNet18,90 epochs
+CrossEntropy,CORE,56.26 ± 0.70,79.64 ± 0.57,43.86 ± 0.08,No,ResNet18,90 epochs
