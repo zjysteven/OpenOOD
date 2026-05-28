@@ -1,0 +1,14 @@
+{
+  "Training": "CrossEntropy",
+  "Postprocessor": "<a href=https://arxiv.org/abs/2603.18290>CORE</a>",
+  "Near-OOD_AUROC": "56.26 \u00b1 0.70",
+  "Far-OOD_AUROC": "79.64 \u00b1 0.57",
+  "ID_Accuracy": "43.86 \u00b1 0.08",
+  "Outlier_Data": "No",
+  "Arch": "ResNet18",
+  "Additional_Description": "90 epochs",
+  "ID_Accuracy_Mean": "43.86",
+  "Near-OOD_AUROC_Mean": "56.26",
+  "Far-OOD_AUROC_Mean": "79.64",
+  "Rank": 24
+}
