@@ -83,3 +83,4 @@ ISH,AdaSCALE-L,67.95,88.66,54.88,No,ResNet50,official ckpt
 CrossEntropy,AdaSCALE-A,75.04,89.77,73.28,No,RegNet_Y_16GF,torchvision ckpt
 CrossEntropy,AdaSCALE-L,73.45,91.78,73.28,No,RegNet_Y_16GF,torchvision ckpt
 CrossEntropy,CORE,62.14,77.11,60.01,No,Swin-T,torchvision ckpt
+CrossEntropy,PLF,65.15,88.69,54.35,No,ResNet50,torchvision ckpt
