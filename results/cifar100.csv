@@ -57,3 +57,4 @@ CrossEntropy,AdaSCALE-A,81.04 ± 0.11,81.84 ± 0.36,77.25 ± 0.10,No,ResNet18,10
 CrossEntropy,AdaSCALE-L,80.54 ± 0.16,83.38 ± 0.20,77.25 ± 0.10,No,ResNet18,100 epochs
 CrossEntropy,NCI,81.03 ± 0.00,81.32 ± 0.00,77.18 ± 0.00,No,ResNet18,100 epochs
 CrossEntropy,CORE,79.11 ± 0.11,83.95 ± 0.56,77.26 ± 0.09,No,ResNet18,100 epochs
+CrossEntropy,PLF,80.75 ± 0.19,80.53 ± 1.38,77.25 ± 0.10,No,ResNet18,100 epochs
